@@ -24,7 +24,7 @@ The LinkedIn AI Message Generator is a web application that automates the proces
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/davidlam1991/LinkedIn_Networking/blob/main/client/public/Screenshot1.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/davidlam1991/LinkedIn_Networking/blob/main/client/public/Screenshot2.png?raw=true)
 
